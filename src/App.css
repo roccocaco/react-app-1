@@ -1,1 +1,16 @@
+* {
+    margin: 0;
+}
 
+.div-container {
+    background-color: #d8d2d2;
+    min-height: 100vh;
+}
+
+.div-pesquisa {
+    background-color: rgb(90, 3, 176);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}

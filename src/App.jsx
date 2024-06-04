@@ -1,17 +1,12 @@
-
 import './App.css'
+import ListaVinhos from './ListaVinhos'
 
 function App() {
   
-
   return (
-    <>
-      <div>
-        
-      </div>
-
-
-    </>
+    <div className='div-container'>      
+      <ListaVinhos />
+    </div>
   )
 }
 
