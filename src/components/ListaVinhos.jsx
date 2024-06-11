@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { dataVinhos } from "./data";
+import { dataVinhos } from "../data/data";
 
 function ListaVinhos() {
   const [data, setData] = useState(dataVinhos);

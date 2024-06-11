@@ -14,3 +14,23 @@
     align-items: center;
     margin-bottom: 10px;
 }
+
+img {
+    width: 200px;
+}
+
+.header {
+    height: 100px;
+    background-color: white;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-lista {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
